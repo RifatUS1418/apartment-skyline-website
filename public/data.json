@@ -1,0 +1,98 @@
+[
+    {
+        "code": "property100",
+        "name": "Avalon Wilshire",
+        "price": "$3,436-$5477",
+        "text": "Studio - 3 Bed • 1 - 2 Bath • 602 - 1,747 Sq. Ft. • Available Now",
+        "description": "Deal Get Up to 6 Weeks Free for a Limited Time. Contact us for details.",
+        "img": "https://i.ibb.co/J36VM5c/1.jpg"
+    },
+    {
+        "code": "property101",
+        "name": "Sentral DTLA 732",
+        "price": "$2,166-$15477",
+        "text": "2 Bed • 1 - 2 Bath • 722 - 1047 Sq. Ft. • Available Now",
+        "description": "Deal Get Up to 6 Weeks Free for a Limited Time. Contact us for details.",
+        "img": "https://i.ibb.co/LPBTQ5X/2.jpg"
+    },
+    {
+        "code": "property102",
+        "name": "Bonita Terrace",
+        "price": "$3,250",
+        "text": "4 Bed • 1 - 4 Bath • 1223 - 4,3545 Sq. Ft. • Available Now",
+        "description": "Deal Get Up to 6 Weeks Free for a Limited Time. Contact us for details.",
+        "img": "https://i.ibb.co/G7Qzq9k/3.jpg"
+    },
+    {
+        "code": "property103",
+        "name": "Villa Vicente",
+        "price": "$4500-$17477",
+        "text": "Studio - 6 Bed • 1 - 6 Bath • 898 - 5600 Sq. Ft. • Available Now",
+        "description": "Deal Get Up to 6 Weeks Free for a Limited Time. Contact us for details.",
+        "img": "https://i.ibb.co/m5Cy32y/4.jpg"
+    },
+    {
+        "code": "property104",
+        "name": "Westland Coleusim",
+        "price": "$2,166",
+        "text": "Studio - 1 Bed • 1  Bath • 111 - 1,747 Sq. Ft. • Available Now",
+        "description": "Move-in Special Up to TWO MONTHS FREE! 8 WEEKS FREE on 2nd-floor units! 6 WEEKS FREE on all other units! *Minimum 14-month lease term required for this promotion..",
+        "img": "https://i.ibb.co/n3NrSDr/5.jpg"
+    },
+    {
+        "code": "property105",
+        "name": "AVA Hollywood at La Pietra Place",
+        "price": "$2,166-$15477",
+        "text": "4 Bed • 1 - 4 Bath • 552 - 1,747 Sq. Ft. • Available Now",
+        "description": "Deal Up to 1 months free on Flexible Living homes! * Ask about our Flexible Living Program. * Terms and conditions apply..",
+        "img": "https://i.ibb.co/jwsNv63/6.jpg"
+    },
+    {
+        "code": "property106",
+        "name": "Avalon West Hollywood",
+        "price": "$6166-$28477",
+        "text": "6 Bed • 1 - 5 Bath • 699 - 6,6747 Sq. Ft. • Available Now",
+        "description": "Deal * Ask about our Flexible Living Program. * Up to 2.5 months free on Flexible Living homes! * Terms and conditions apply..",
+        "img": "https://i.ibb.co/DwmQfHD/7.jpg"
+    },
+    {
+        "code": "property107",
+        "name": " The Huxley La Brea Avenue West Hollywood",
+        "price": "$9,2224-$20000",
+        "text": "Studio - 7 Bed • 1 - 6 Bath • 666 - 3,347 Sq. Ft.",
+        "description": "Available starting Nov. 21st",
+        "img": "https://i.ibb.co/37g0d9C/8.jpg"
+    },
+    {
+        "code": "property108",
+        "name": "Hampshire Place",
+        "price": "$2,166",
+        "text": "2 Bed • 1 - 2 Bath • 344 - 1,747 Sq. Ft.",
+        "description": "Available starting Nov. 21st.",
+        "img": "https://i.ibb.co/4wk1Wpk/9.jpg"
+    },
+    {
+        "code": "property109",
+        "name": "Micheltorena St Los Angeles, CA",
+        "price": "$1,910",
+        "text": "1 Bed • 1 Bath • 182 Sq. Ft. • Available Now",
+        "description": "Deal * Ask about our Flexible Living Program. * Up to 2.5 months free on Flexible Living homes! * Terms and conditions apply..",
+        "img": "https://i.ibb.co/Dfc2Y33/10.jpg"
+    },
+    {
+        "code": "property110",
+        "name": "George Forcery",
+        "price": "$2,888",
+        "text": "1 Bed • 1 Bath • 182 Sq. Ft. • Available starting Dec. 1st",
+        "description": "Love where you live - guaranteed - with our two week trial",
+        "img": "https://i.ibb.co/dDczQyB/11.jpg"
+    },
+    {
+        "code": "property111",
+        "name": "Avalon Wilshire",
+        "price": "$1,950 - $4,185",
+        "text": "1 - 2 Bed • 1 - 2 Bath • 558 - 1,288 Sq. Ft. • Available Now",
+        "description": "Move-in Special Up to TWO MONTHS FREE! 8 WEEKS FREE on 2nd-floor units! 6 WEEKS FREE on all other units! *Minimum 14-month lease term required for this promotion.",
+        "img": "https://i.ibb.co/VgBzBCy/12.jpg"
+    }
+]
