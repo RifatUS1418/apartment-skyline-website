@@ -1,18 +1,19 @@
-import { Grid } from '@mui/material';
+import { Container, Grid } from '@mui/material';
 import React from 'react';
 import banner from '../../../images/banner.jpg'
-import { Typography } from '@mui/material/Typography';
+import { Typography } from '@mui/material';
+import { Box } from '@mui/system';
 
 const Banner = () => {
     return (
         <Grid container spacing={2}>
-            <Grid style={{ position: 'relative' }} item xs={12} md={12}>
-                <img src={banner} alt="" style={{ width: "100%", filter: "brightness(30%)" }} />
-                <div style={{ postion: 'absolute', top: "20%", left: "20%" }}>
-                    <Typography style={{ color: 'white' }} variant="h1" component="div" gutterBottom>
+            <Grid item xs={12} md={12}>
+                <Box style={{ position: 'relative' }}>
+                    <img src={banner} alt="" style={{ width: "100%", filter: "brightness(30%)" }} />
+                    <Typography style={{ color: 'white', position: 'absolute', top: "30%", left: "20%" }} variant="h1" component="div" gutterBottom>
                         Apartment Skyline
                     </Typography>
-                </div>
+                </Box>
             </Grid>
         </Grid>
     );

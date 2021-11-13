@@ -4,7 +4,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <Box style={{ backgroundColor: "grey", color: 'white', p: 8 }}>
+        <Box style={{ backgroundColor: "grey", color: 'white', padding: "10px" }}>
             <Container>
                 <Typography variant="subtitle2" gutterBottom component="div">
                     © Copyright 2021. All Rights Reserved, Apartment Cardinal, California, LA , US
