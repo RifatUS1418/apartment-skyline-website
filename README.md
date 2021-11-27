@@ -1,3 +1,15 @@
+................Projects Description.................
+
+Project Name: Apartment Skyline
+
+project link : https://apartment-skyline2.web.app/
+This project is based on Full-stack with React framework , Firebasae, MongoDB, React-Bootstrap & made with love.
+
+•	Implemented Login and Register system using firebase with fully responsive UI.
+•	Private Routes and Admin Routes are ensured using React-Router. Developed JWT system to ensure advanced protection for admin route.
+•	Developed admin panel to ensure CRUD operations for admin. Users can give reviews and cancel their bookings.
+•	Integrated MongoDB database to store data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
